@@ -1,9 +1,9 @@
 // q1
-// var city = prompt("Enter your city");
-// if (city == "karachi"){
-//     document.write("<h1>welcome to city of lights</h1>")
-// }
-// else { document.write ("<h1>Andhera hi adhera hai..!</h1>") }
+var city = prompt("Enter your city");
+if (city == "karachi"){
+    document.write("<h1>welcome to city of lights</h1>")
+}
+else { document.write ("<h1>Andhera hi adhera hai..!</h1>") }
 
 // q2
 var gender = prompt("Enter your gender");
@@ -16,3 +16,5 @@ else if (gender == "female"){
 else {
     document.write("<h1>you are robot.</h1>");
 }
+
+// q3
