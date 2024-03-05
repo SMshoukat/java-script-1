@@ -29,11 +29,32 @@
     // }
     
     // Q4
+    // var a = "a" , e = "e" ,i = "i" , o = "o" ,u = "u" ; 
+    // var vowel = prompt("Enter any one vowel");
 
-    // pendind
+    // if (vowel == a || vowel == e || vowel == i || vowel == o || vowel == u ){
+    //     document.write ("<h1>true</h1>")
+    // } 
+    // else {
+    //     document.write ("<h1>false</h1>")
+    // }
 
     // Q5
-    //  pending
+// let passC = "hello";
+// let passU = prompt("Enter your password");
+
+// if (passU == passC){
+//     document.write("<h1>Correct! The password you entered matches the original password</h1>")
+// } 
+// else if (passU == "" ) {
+//     document.write("<h1>Please enter the password.</h1>")
+// }
+// else {
+//     document.write("<h1>Incorrect password.</h1>")
+// }
+
+
+
     // q6
 // var greeting = prompt();
 // var hour = 13;
@@ -62,4 +83,5 @@
 // else {
 //     document.write("<h1>please enter the correct the time</h1>")
 // }
+
 
